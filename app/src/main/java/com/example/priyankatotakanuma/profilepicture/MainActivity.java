@@ -20,12 +20,12 @@ public class MainActivity extends AppCompatActivity {
         names = new ArrayList<>();
         imageUrls = new ArrayList<>();
 
-        imageUrls.add(R.drawable.industry_offerings_symbol);
+       // imageUrls.add(R.drawable.industry_offerings_symbol);
         imageUrls.add(R.drawable.news_symbol);
         imageUrls.add(R.drawable.pdf_symbol);
         imageUrls.add(R.drawable.ic_launcher);
 
-        names.add("Monarch");
+     //   names.add("Monarch");
         names.add("Bat Bar");
         names.add("Knockout");
         names.add("BetaTeta");
